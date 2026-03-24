@@ -2,7 +2,10 @@ def names():
     """Lee nombre y apellido, e imprime el nombre completo en distintos formatos:
     minúsculas, título, mayúsculas y con tabulador.
     """
-      nombre=input("Ingrese si nombre: ")
+
+
+
+    nombre=input("Ingrese su nombre: ")
     apellido=input("Ingrese su apellido: ")
     nombre_completo=(nombre+" " +apellido)
 
