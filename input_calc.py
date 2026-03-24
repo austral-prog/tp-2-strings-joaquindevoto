@@ -11,4 +11,4 @@ def rectangle():
     print(f"Base: {base}")
     print(f"Altura: {altura}")
     print(f"Area: {area_resultado}")
-    print(f"Perimetro: {perimetro}")
+    print(f"Perimetro: {perimetro}") 
