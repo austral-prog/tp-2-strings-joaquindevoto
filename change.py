@@ -3,7 +3,6 @@ def change():
     y lo separa en pesos (parte entera) y centavos.
     """
 
-
     print("Ingresar gasto:")
     gasto= float(input())
     print(gasto)
